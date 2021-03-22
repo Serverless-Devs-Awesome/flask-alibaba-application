@@ -1,5 +1,5 @@
 FlaskComponent:
-  Component: flask
+  Component: flask-alibaba-component
   Provider: alibaba
   Extends:
     deploy:
